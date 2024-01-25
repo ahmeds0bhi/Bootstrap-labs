@@ -1,0 +1,52 @@
+body{
+    background-color: #f0f0f0;
+}
+.nav-link:hover{
+    color: white !important;
+}
+.card-img-overlay{
+    top: 15%;
+    left:15%;
+}
+a{
+    color: black;
+}
+a:hover{
+    text-decoration: none;
+}
+
+aside {
+    background-color:#e3e3e36a ;
+}
+
+aside ul {
+    list-style: none;
+}
+
+aside a:hover{
+    text-decoration: none;
+}
+
+footer {
+    background: #222;
+  }
+footer h3 {
+color: white;
+}  
+  footer p {
+    color: #777777;
+  }
+  footer a {
+    color: #777777;
+  }
+  footer li {
+    list-style-type: square;
+  }
+  footer a:hover {
+    text-decoration: none;
+    color: white;
+  }
+  footer li::marker {
+    color: #777;
+  }
+  
